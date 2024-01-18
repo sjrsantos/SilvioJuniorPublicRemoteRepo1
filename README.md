@@ -1,5 +1,5 @@
 # SilvioJuniorPublicRemoteRepo1
 
 This is a feature-branch
-Line altered by Silvio. Trying to generate a conflict.
+Conflict is created now! This line was altered by Silvio
 Altered again.
